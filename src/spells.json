@@ -1,0 +1,92 @@
+[
+ {
+  "name": "mining-laser",
+  "cd": 1.0,
+  "cost": 0,
+  "unlock": 0
+ },
+ {
+  "name": "disposable-bots",
+  "cd": 5.0,
+  "cost": 0,
+  "unlock": 0
+ },
+ {
+  "name": "fire-cannon",
+  "cd": 20.0,
+  "cost": 1,
+  "unlock": 5
+ },
+ {
+  "name": "ice-cannon",
+  "cd": 40.0,
+  "cost": 1,
+  "unlock": 10
+ },
+ {
+  "name": "pumper-bot",
+  "cd": 100.0,
+  "cost": 1,
+  "unlock": 15
+ },
+ {
+  "name": "nano-cloud",
+  "cd": 4.0,
+  "cost": 2,
+  "unlock": 25
+ },
+ {
+  "name": "miracle-gas",
+  "cd": 8.0,
+  "cost": 2,
+  "unlock": 35
+ },
+ {
+  "name": "electric-zap",
+  "cd": 1.0,
+  "cost": 3,
+  "unlock": 70
+ },
+ {
+  "name": "repair-bot",
+  "cd": 20.0,
+  "cost": 3,
+  "unlock": 80
+ },
+ {
+  "name": "electric-charge-fall",
+  "cd": 6.0,
+  "cost": 3,
+  "unlock": 90
+ },
+ {
+  "name": "green-laser",
+  "cd": 1.0,
+  "cost": 3,
+  "unlock": 160
+ },
+ {
+  "name": "bomb",
+  "cd": 3.0,
+  "cost": 15,
+  "unlock": 290
+ },
+ {
+  "name": "electricity-laser",
+  "cd": 3.5,
+  "cost": 20,
+  "unlock": 300
+ },
+ {
+  "name": "toxic-bomb",
+  "cd": 4.5,
+  "cost": 15,
+  "unlock": 384
+ },
+ {
+  "name": "dagger",
+  "cd": 4.5,
+  "cost": 0,
+  "unlock": 0
+ }
+]

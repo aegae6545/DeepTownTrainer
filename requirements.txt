@@ -1,0 +1,18 @@
+# 深城修改器 · Python 依赖
+#
+# 建议 Python 3.9 ~ 3.12（不要用 3.13+，frida 轮子跟不上）
+#
+# 安装：
+#   pip install -r requirements.txt
+#
+# ⚠ frida 必须锁 16.x —— 实测 frida==16.7.19 可用；
+#   17.x 的 Java 桥接在 MuMu12/ART 上会挂。
+
+# --- 必需 ---
+PyQt5>=5.15,<6
+frida==16.7.19
+numpy
+
+# --- 可选：DEX 分析小工具（dexparse / smalidump / listmethods / findcrypto）---
+androguard
+loguru

@@ -1,0 +1,38 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- 本机配置（不要提交）----
+python_path.txt
+
+# ---- 大文件 / 二进制（自行准备，见 README）----
+src/bin/
+*.exe
+*.apk
+*.dex
+*.so
+frida-server*
+
+# ---- 逆向工作目录 / 解包产物（体积大，不入库）----
+unpacked/
+archive/
+saves/
+shots/
+work/
+*.zip
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
